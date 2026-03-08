@@ -1,4 +1,4 @@
-# ImageToWebP 🦀
+# ImageToWebp 🦀
 
 A high-performance command-line tool written in Rust designed to convert images (PNG, JPG, BMP) to WebP format efficiently. 
 
@@ -15,6 +15,6 @@ WebP is the gold standard for web performance. I built this tool to simplify the
 Make sure you have [Rust/Cargo](https://rustup.rs/) installed.
 
 ```bash
-git clone [https://github.com/your-username/ImageToWebP.git](https://github.com/your-username/ImageToWebP.git)
-cd ImageToWebP
+git clone https://github.com/ziogoku/ImageToWebp.git
+cd ImageToWebp
 cargo build --release
